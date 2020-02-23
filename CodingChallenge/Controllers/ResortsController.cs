@@ -21,7 +21,10 @@ namespace CodingChallenge.Controllers
         {
             var resorts = database.Set<Resort>().AsQueryable();
 
-            if (!string.IsNullOrWhiteSpace(country)) resorts = resorts.Where(r => r.Country == country);
+            if (!string.IsNullOrWhiteSpace(country))
+            {
+                resorts = resorts.Where(r => r.Country == country);
+            }
 
             return new OkObjectResult(resorts);
         }
