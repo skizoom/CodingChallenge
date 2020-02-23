@@ -1,0 +1,1666 @@
+[
+  {
+    "code": "ADCAN",
+    "name": "Canillo",
+    "country": "Andorra",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ADENC",
+    "name": "Encamp",
+    "country": "Andorra",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ADPAS",
+    "name": "Pas de la Casa",
+    "country": "Andorra",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ADMAS",
+    "name": "La Massana",
+    "country": "Andorra",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ADTAR",
+    "name": "El Tarter",
+    "country": "Andorra",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ADSOL",
+    "name": "Soldeu",
+    "country": "Andorra",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ADORD",
+    "name": "Ordino",
+    "country": "Andorra",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ADSER",
+    "name": "El Serrat",
+    "country": "Andorra",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ADGRA",
+    "name": "Grau Roig",
+    "country": "Andorra",
+    "familyFriendly": false,
+    "highAltitude": true,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "ADARI",
+    "name": "Arinsal",
+    "country": "Andorra",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ADCOR",
+    "name": "La Cortinada",
+    "country": "Andorra",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "FRMON",
+    "name": "Montgenevre",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": true,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "FRVAR",
+    "name": "Vars",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": true,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "FRRIS",
+    "name": "Risoul",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": true,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "FRGRA",
+    "name": "La Grave",
+    "country": "France",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "FRORC",
+    "name": "Orcieres",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": true,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "FRORR",
+    "name": "Les Orres",
+    "country": "France",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "FRISO",
+    "name": "Isola",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": true,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "FRHUE",
+    "name": "Alpe d'Huez",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": true,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "FRCHS",
+    "name": "Chamrousse",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "FRLDA",
+    "name": "Les Deux Alpes",
+    "country": "France",
+    "familyFriendly": false,
+    "highAltitude": true,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "FRVAU",
+    "name": "Vaujany",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": true,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "FRBOU",
+    "name": "Bourg-Saint-Maurice",
+    "country": "France",
+    "familyFriendly": false,
+    "highAltitude": true,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "FRBLB",
+    "name": "Brides-les-Bains",
+    "country": "France",
+    "familyFriendly": false,
+    "highAltitude": true,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "FRCHY",
+    "name": "Champagny-en-Vanoise",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": true,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "FRCOU",
+    "name": "Courchevel",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": true,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "FRFLU",
+    "name": "Flumet",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "FRGIE",
+    "name": "La Giettaz",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "FRMER",
+    "name": "Meribel",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": true,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "FRALL",
+    "name": "Les Allues",
+    "country": "France",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "FRORE",
+    "name": "Orelle",
+    "country": "France",
+    "familyFriendly": false,
+    "highAltitude": true,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "FRPLA",
+    "name": "La Plagne",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": true,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "FRPRA",
+    "name": "Pralognan-la-Vanoise",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "FRSTF",
+    "name": "Saint-Francois-Longchamp",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "FRSTM",
+    "name": "Saint-Martin-de-Belleville",
+    "country": "France",
+    "familyFriendly": false,
+    "highAltitude": true,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "FRSOR",
+    "name": "Saint-Sorlin-dArves",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "FRFOY",
+    "name": "Sainte Foy Tarentaise",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "FRTIG",
+    "name": "Tignes",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": true,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "FRTOU",
+    "name": "La Toussuire",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": true,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "FRVCE",
+    "name": "Val Cenis",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "FRVDI",
+    "name": "Val d'Isere",
+    "country": "France",
+    "familyFriendly": false,
+    "highAltitude": true,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "FRVLO",
+    "name": "Valloire",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "FRVLM",
+    "name": "Valmeinier",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "FRVMO",
+    "name": "Valmorel",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "FRROG",
+    "name": "Villaroger",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": true,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "FRCAR",
+    "name": "Les Carroz",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "FRCHX",
+    "name": "Chamonix",
+    "country": "France",
+    "familyFriendly": false,
+    "highAltitude": true,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "FRARG",
+    "name": "Argentiere",
+    "country": "France",
+    "familyFriendly": false,
+    "highAltitude": true,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "FRCHL",
+    "name": "Chatel",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "FRCHP",
+    "name": "La Chapelle-d'Abondance",
+    "country": "France",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "FRCLU",
+    "name": "La Clusaz",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "FRCOM",
+    "name": "Combloux",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "FRCON",
+    "name": "Les Contamines-Montjoie",
+    "country": "France",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "FRFLA",
+    "name": "Flaine",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "FRGET",
+    "name": "Les Gets",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "FRGBO",
+    "name": "Le Grand-Bornand",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "FRHOU",
+    "name": "Les Houches",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "FRMEG",
+    "name": "Megeve",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "FRMOL",
+    "name": "Morillon",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "FRMOR",
+    "name": "Morzine",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "FRAVO",
+    "name": "Avoriaz",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": true,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "FRSAM",
+    "name": "Samoens",
+    "country": "France",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "FRVCI",
+    "name": "Vallorcine",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": true,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "FRJEA",
+    "name": "Saint-Jean-dArves",
+    "country": "France",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "FRCHE",
+    "name": "Serre Chevalier",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "FRHAU",
+    "name": "Hauteluce",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "FRSAI",
+    "name": "Les Saisies",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "FRPRZ",
+    "name": "Praz-sur-Arly",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "FRSTG",
+    "name": "Saint Gervais",
+    "country": "France",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ATBKL",
+    "name": "Bad Kleinkirchheim",
+    "country": "Austria",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ATBHO",
+    "name": "Bad Hofgastein",
+    "country": "Austria",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ATBGA",
+    "name": "Bad Gastein",
+    "country": "Austria",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ATDGA",
+    "name": "Dorfgastein",
+    "country": "Austria",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ATMAR",
+    "name": "Maria Alm",
+    "country": "Austria",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ATRAU",
+    "name": "Rauris",
+    "country": "Austria",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "ATSAA",
+    "name": "Saalbach-Hinterglemm",
+    "country": "Austria",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ATFLA",
+    "name": "Flachau",
+    "country": "Austria",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "ATZAS",
+    "name": "Zell am See",
+    "country": "Austria",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ATKPN",
+    "name": "Kaprun",
+    "country": "Austria",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ATSCH",
+    "name": "Schladming",
+    "country": "Austria",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ATALP",
+    "name": "Alpbach",
+    "country": "Austria",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ATAXA",
+    "name": "Axamer Lizum",
+    "country": "Austria",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ATISC",
+    "name": "Ischgl",
+    "country": "Austria",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ATKIT",
+    "name": "Kitzbuhel",
+    "country": "Austria",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ATFIE",
+    "name": "Fieberbrunn",
+    "country": "Austria",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ATKIR",
+    "name": "Kirchberg",
+    "country": "Austria",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ATMAY",
+    "name": "Mayrhofen",
+    "country": "Austria",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ATZAZ",
+    "name": "Zell am Ziller",
+    "country": "Austria",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ATGER",
+    "name": "Gerlos",
+    "country": "Austria",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ATTUX",
+    "name": "Tux",
+    "country": "Austria",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ATFUG",
+    "name": "Fugen",
+    "country": "Austria",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ATSOE",
+    "name": "Soelden",
+    "country": "Austria",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ATSTA",
+    "name": "St Anton",
+    "country": "Austria",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ATSEE",
+    "name": "Seefeld",
+    "country": "Austria",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ATNEU",
+    "name": "Neustift Im Stubaital",
+    "country": "Austria",
+    "familyFriendly": true,
+    "highAltitude": true,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ATELL",
+    "name": "Ellmau",
+    "country": "Austria",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "ATSHF",
+    "name": "Scheffau am Wilden Kaiser",
+    "country": "Austria",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "ATGOI",
+    "name": "Going am Wilden Kaiser",
+    "country": "Austria",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "ATSOL",
+    "name": "Soell",
+    "country": "Austria",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ATWES",
+    "name": "Westendorf",
+    "country": "Austria",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ATWLD",
+    "name": "Wildschonau",
+    "country": "Austria",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "ATLEC",
+    "name": "Lech",
+    "country": "Austria",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ATDAM",
+    "name": "Damuels",
+    "country": "Austria",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ATLEO",
+    "name": "Leogang",
+    "country": "Austria",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ATSER",
+    "name": "Serfaus",
+    "country": "Austria",
+    "familyFriendly": true,
+    "highAltitude": true,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "ATHEI",
+    "name": "Heiligenblut",
+    "country": "Austria",
+    "familyFriendly": false,
+    "highAltitude": true,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ATOET",
+    "name": "Oetz",
+    "country": "Austria",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "ATJOC",
+    "name": "Jochberg",
+    "country": "Austria",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "ATLER",
+    "name": "Lermoos",
+    "country": "Austria",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "ATPIT",
+    "name": "St Leonhard im Pitztal",
+    "country": "Austria",
+    "familyFriendly": false,
+    "highAltitude": true,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ATLAD",
+    "name": "Ladis",
+    "country": "Austria",
+    "familyFriendly": true,
+    "highAltitude": true,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "ATWAI",
+    "name": "Waidring",
+    "country": "Austria",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "ATWAG",
+    "name": "Wagrain",
+    "country": "Austria",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "ATFIT",
+    "name": "Filzmoos",
+    "country": "Austria",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ATMUE",
+    "name": "Muehlbach Am Hochkoenig",
+    "country": "Austria",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "ATOGL",
+    "name": "Obergurgl",
+    "country": "Austria",
+    "familyFriendly": true,
+    "highAltitude": true,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "ITALA",
+    "name": "Alagna Valsesia",
+    "country": "Italy",
+    "familyFriendly": false,
+    "highAltitude": true,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ITBAR",
+    "name": "Bardonecchia",
+    "country": "Italy",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ITCER",
+    "name": "Cervinia",
+    "country": "Italy",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ITCOU",
+    "name": "Courmayeur",
+    "country": "Italy",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ITGRE",
+    "name": "Gressoney",
+    "country": "Italy",
+    "familyFriendly": false,
+    "highAltitude": true,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ITTHU",
+    "name": "La Thuile",
+    "country": "Italy",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "ITBOR",
+    "name": "Bormio",
+    "country": "Italy",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ITLIV",
+    "name": "Livigno",
+    "country": "Italy",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ITMAD",
+    "name": "Madonna di Campiglio",
+    "country": "Italy",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "ITCAN",
+    "name": "Canazei",
+    "country": "Italy",
+    "familyFriendly": false,
+    "highAltitude": true,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "ITVIG",
+    "name": "Vigo di Fassa",
+    "country": "Italy",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "ITCAM",
+    "name": "Campitello di Fassa",
+    "country": "Italy",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "ITPOZ",
+    "name": "Pozza di Fassa",
+    "country": "Italy",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "ITALT",
+    "name": "Alta Badia",
+    "country": "Italy",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "ITSTC",
+    "name": "Santa Cristina Val Gardena",
+    "country": "Italy",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "ITSEL",
+    "name": "Selva di Val Gardena",
+    "country": "Italy",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ITSEN",
+    "name": "Senales",
+    "country": "Italy",
+    "familyFriendly": false,
+    "highAltitude": true,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "ITORT",
+    "name": "Ortisei",
+    "country": "Italy",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "ITCOR",
+    "name": "Cortina d'Ampezzo",
+    "country": "Italy",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ITMAR",
+    "name": "Marebbe",
+    "country": "Italy",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ITPIL",
+    "name": "Pila",
+    "country": "Italy",
+    "familyFriendly": true,
+    "highAltitude": true,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "ITSVI",
+    "name": "San Vito di Cadore",
+    "country": "Italy",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "ITSES",
+    "name": "Sestriere",
+    "country": "Italy",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ITSAU",
+    "name": "Sauze d'Oulx",
+    "country": "Italy",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "SIKRA",
+    "name": "Kranjska Gora",
+    "country": "Slovenia",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "SIBLE",
+    "name": "Bled",
+    "country": "Slovenia",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "SIBOH",
+    "name": "Bohinj",
+    "country": "Slovenia",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "SIBOV",
+    "name": "Bovec",
+    "country": "Slovenia",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "SICER",
+    "name": "Cerkno",
+    "country": "Slovenia",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "BGBAN",
+    "name": "Bansko",
+    "country": "Bulgaria",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "BGBOR",
+    "name": "Borovets",
+    "country": "Bulgaria",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "BGPAM",
+    "name": "Pamporovo",
+    "country": "Bulgaria",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "NOGEI",
+    "name": "Geilo",
+    "country": "Norway",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "NOHAF",
+    "name": "Hafjell",
+    "country": "Norway",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "NOHEM",
+    "name": "Hemsedal",
+    "country": "Norway",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "NOTRY",
+    "name": "Trysil",
+    "country": "Norway",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "NOVOS",
+    "name": "Voss",
+    "country": "Norway",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "NOLIL",
+    "name": "Lillehammer",
+    "country": "Norway",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "NOBEI",
+    "name": "Beitostolen",
+    "country": "Norway",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "SEARE",
+    "name": "Are",
+    "country": "Sweden",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "SERIK",
+    "name": "Riksgransen",
+    "country": "Sweden",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "SEKLO",
+    "name": "Klovsjo",
+    "country": "Sweden",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "FILEV",
+    "name": "Levi",
+    "country": "Finland",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "FIRUK",
+    "name": "Ruka",
+    "country": "Finland",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "FIYLL",
+    "name": "Yllas",
+    "country": "Finland",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "FISYO",
+    "name": "Syote",
+    "country": "Finland",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "FIPYH",
+    "name": "Pyha",
+    "country": "Finland",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "FISAL",
+    "name": "Salla",
+    "country": "Finland",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "FISUO",
+    "name": "Suomu",
+    "country": "Finland",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "DEGAR",
+    "name": "Garmisch-Partenkirchen",
+    "country": "Germany",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "DEOBG",
+    "name": "Oberammergau",
+    "country": "Germany",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "DEOBD",
+    "name": "Oberstdorf",
+    "country": "Germany",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "DERUH",
+    "name": "Ruhpolding",
+    "country": "Germany",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "DEWEG",
+    "name": "Wegscheid",
+    "country": "Germany",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "DETEG",
+    "name": "Tegernsee",
+    "country": "Germany",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "CHADL",
+    "name": "Adelboden",
+    "country": "Switzerland",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "CHAND",
+    "name": "Andermatt",
+    "country": "Switzerland",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "CHENG",
+    "name": "Engelberg",
+    "country": "Switzerland",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "CHGRN",
+    "name": "Grindelwald",
+    "country": "Switzerland",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "CHKAN",
+    "name": "Kandersteg",
+    "country": "Switzerland",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "CHLEN",
+    "name": "Lenk",
+    "country": "Switzerland",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "CHWEN",
+    "name": "Wengen",
+    "country": "Switzerland",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "CHARO",
+    "name": "Arosa",
+    "country": "Switzerland",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "CHDAV",
+    "name": "Davos",
+    "country": "Switzerland",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "CHKLO",
+    "name": "Klosters",
+    "country": "Switzerland",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "CHFLI",
+    "name": "Flims",
+    "country": "Switzerland",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "CHLAX",
+    "name": "Laax",
+    "country": "Switzerland",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "CHSTM",
+    "name": "St Moritz",
+    "country": "Switzerland",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "CHSMN",
+    "name": "Samnaun",
+    "country": "Switzerland",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "CHCHA",
+    "name": "Champery",
+    "country": "Switzerland",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "CHCRA",
+    "name": "Crans-Montana",
+    "country": "Switzerland",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "CHLEU",
+    "name": "Leukerbad",
+    "country": "Switzerland",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "CHNEN",
+    "name": "Nendaz",
+    "country": "Switzerland",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "CHRIE",
+    "name": "Riederalp",
+    "country": "Switzerland",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "CHSAL",
+    "name": "Saas Almagell",
+    "country": "Switzerland",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "CHSFE",
+    "name": "Saas-Fee",
+    "country": "Switzerland",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "CHZER",
+    "name": "Zermatt",
+    "country": "Switzerland",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "CHLEY",
+    "name": "Leysin",
+    "country": "Switzerland",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "CHVER",
+    "name": "Verbier",
+    "country": "Switzerland",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "CHFIE",
+    "name": "Fiesch",
+    "country": "Switzerland",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "CHMEI",
+    "name": "Meiringen",
+    "country": "Switzerland",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "CHSPL",
+    "name": "Spluegen",
+    "country": "Switzerland",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "CHVEY",
+    "name": "Veysonnaz",
+    "country": "Switzerland",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "CHDIS",
+    "name": "Disentis",
+    "country": "Switzerland",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "FRARC",
+    "name": "Les Arcs",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": true,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "FRMEN",
+    "name": "Les Menuires",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": true,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "FRVTH",
+    "name": "Val Thorens",
+    "country": "France",
+    "familyFriendly": true,
+    "highAltitude": true,
+    "beginnerFriendly": true
+  },
+  {
+    "code": "FRCAU",
+    "name": "Vaujany",
+    "country": "France",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ATHOP",
+    "name": "Hopfgarten",
+    "country": "Austria",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ATKPL",
+    "name": "Kappl",
+    "country": "Austria",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ATSTC",
+    "name": "St Christoph",
+    "country": "Austria",
+    "familyFriendly": false,
+    "highAltitude": false,
+    "beginnerFriendly": false
+  },
+  {
+    "code": "ATSTJ",
+    "name": "St Johan",
+    "country": "Austria",
+    "familyFriendly": true,
+    "highAltitude": false,
+    "beginnerFriendly": true
+  }
+]
