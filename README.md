@@ -46,7 +46,12 @@ Please answer the following questions in a markdown file called `Answers to tech
 
 
 # Running Instructions
-The sample application uses .NET Core 3.1, which can be downloaded [here](https://dotnet.microsoft.com/download/dotnet-core/3.1).
+The sample application uses the following frameworks:
+
+1. .NET Core 3.1, which can be downloaded [here](https://dotnet.microsoft.com/download/dotnet-core/3.1).
+2. NodeJS which can be downloaded [here](https://nodejs.org/en/).
+
+The application can be run using the `dotnet run` command from the `./CodingChallenge/` directory.
 
 
 #### Thanks for your time, we look forward to hearing from you!
