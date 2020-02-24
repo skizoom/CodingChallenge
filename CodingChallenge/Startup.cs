@@ -23,7 +23,6 @@ namespace CodingChallenge
         {
             services.AddDbContext<DatabaseContext>(options => options.UseInMemoryDatabase(databaseName: "CodingChallenge"));
 
-
             services.AddControllersWithViews();
 
             // In production, the React files will be served from this directory
