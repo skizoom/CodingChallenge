@@ -1,5 +1,4 @@
 ﻿using System.Linq;
-using System.Threading.Tasks;
 using CodingChallenge.Data;
 using Microsoft.AspNetCore.Mvc;
 
@@ -19,7 +18,8 @@ namespace CodingChallenge.Controllers
         [HttpGet]
         public IActionResult Get(string country)
         {
-            var resorts = database.Set<Resort>().AsQueryable();
+            var resorts = database.Set<Resort>()
+                                  .AsQueryable();
 
             if (!string.IsNullOrWhiteSpace(country))
             {

@@ -11,7 +11,7 @@ namespace CodingChallenge.Controllers
     {
         [HttpGet]
         public async Task<IActionResult> Get()
-        {   
+        {
             var httpClient = new HttpClient { BaseAddress = new Uri("https://skizoominterviewchallenge.azurewebsites.net") };
 
             var response = await httpClient.GetAsync("/api/hotels?code=7hnVjCOrnMYAA49pAy/sBnxf4OZZpv8j8fwQ4B8tSNyowaN4cfaKYQ==");
