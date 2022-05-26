@@ -2,7 +2,7 @@
   {
     "code": "ADCAN",
     "name": "Canillo",
-    "country": "Andorra",
+    "country": "AD",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -10,7 +10,7 @@
   {
     "code": "ADENC",
     "name": "Encamp",
-    "country": "Andorra",
+    "country": "AD",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -18,7 +18,7 @@
   {
     "code": "ADPAS",
     "name": "Pas de la Casa",
-    "country": "Andorra",
+    "country": "AD",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -26,7 +26,7 @@
   {
     "code": "ADMAS",
     "name": "La Massana",
-    "country": "Andorra",
+    "country": "AD",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -34,7 +34,7 @@
   {
     "code": "ADTAR",
     "name": "El Tarter",
-    "country": "Andorra",
+    "country": "AD",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -42,7 +42,7 @@
   {
     "code": "ADSOL",
     "name": "Soldeu",
-    "country": "Andorra",
+    "country": "AD",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -50,7 +50,7 @@
   {
     "code": "ADORD",
     "name": "Ordino",
-    "country": "Andorra",
+    "country": "AD",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -58,7 +58,7 @@
   {
     "code": "ADSER",
     "name": "El Serrat",
-    "country": "Andorra",
+    "country": "AD",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -66,7 +66,7 @@
   {
     "code": "ADGRA",
     "name": "Grau Roig",
-    "country": "Andorra",
+    "country": "AD",
     "familyFriendly": false,
     "highAltitude": true,
     "beginnerFriendly": true
@@ -74,7 +74,7 @@
   {
     "code": "ADARI",
     "name": "Arinsal",
-    "country": "Andorra",
+    "country": "AD",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -82,7 +82,7 @@
   {
     "code": "ADCOR",
     "name": "La Cortinada",
-    "country": "Andorra",
+    "country": "AD",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -90,7 +90,7 @@
   {
     "code": "FRMON",
     "name": "Montgenevre",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": true,
     "beginnerFriendly": true
@@ -98,7 +98,7 @@
   {
     "code": "FRVAR",
     "name": "Vars",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": true,
     "beginnerFriendly": true
@@ -106,7 +106,7 @@
   {
     "code": "FRRIS",
     "name": "Risoul",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": true,
     "beginnerFriendly": true
@@ -114,7 +114,7 @@
   {
     "code": "FRGRA",
     "name": "La Grave",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -122,7 +122,7 @@
   {
     "code": "FRORC",
     "name": "Orcieres",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": true,
     "beginnerFriendly": true
@@ -130,7 +130,7 @@
   {
     "code": "FRORR",
     "name": "Les Orres",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -138,7 +138,7 @@
   {
     "code": "FRISO",
     "name": "Isola",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": true,
     "beginnerFriendly": true
@@ -146,7 +146,7 @@
   {
     "code": "FRHUE",
     "name": "Alpe d'Huez",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": true,
     "beginnerFriendly": true
@@ -154,7 +154,7 @@
   {
     "code": "FRCHS",
     "name": "Chamrousse",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -162,7 +162,7 @@
   {
     "code": "FRLDA",
     "name": "Les Deux Alpes",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": false,
     "highAltitude": true,
     "beginnerFriendly": false
@@ -170,7 +170,7 @@
   {
     "code": "FRVAU",
     "name": "Vaujany",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": true,
     "beginnerFriendly": true
@@ -178,7 +178,7 @@
   {
     "code": "FRBOU",
     "name": "Bourg-Saint-Maurice",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": false,
     "highAltitude": true,
     "beginnerFriendly": false
@@ -186,7 +186,7 @@
   {
     "code": "FRBLB",
     "name": "Brides-les-Bains",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": false,
     "highAltitude": true,
     "beginnerFriendly": false
@@ -194,7 +194,7 @@
   {
     "code": "FRCHY",
     "name": "Champagny-en-Vanoise",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": true,
     "beginnerFriendly": true
@@ -202,7 +202,7 @@
   {
     "code": "FRCOU",
     "name": "Courchevel",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": true,
     "beginnerFriendly": true
@@ -210,7 +210,7 @@
   {
     "code": "FRFLU",
     "name": "Flumet",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -218,7 +218,7 @@
   {
     "code": "FRGIE",
     "name": "La Giettaz",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -226,7 +226,7 @@
   {
     "code": "FRMER",
     "name": "Meribel",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": true,
     "beginnerFriendly": false
@@ -234,7 +234,7 @@
   {
     "code": "FRALL",
     "name": "Les Allues",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -242,7 +242,7 @@
   {
     "code": "FRORE",
     "name": "Orelle",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": false,
     "highAltitude": true,
     "beginnerFriendly": false
@@ -250,7 +250,7 @@
   {
     "code": "FRPLA",
     "name": "La Plagne",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": true,
     "beginnerFriendly": true
@@ -258,7 +258,7 @@
   {
     "code": "FRPRA",
     "name": "Pralognan-la-Vanoise",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -266,7 +266,7 @@
   {
     "code": "FRSTF",
     "name": "Saint-Francois-Longchamp",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -274,7 +274,7 @@
   {
     "code": "FRSTM",
     "name": "Saint-Martin-de-Belleville",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": false,
     "highAltitude": true,
     "beginnerFriendly": false
@@ -282,7 +282,7 @@
   {
     "code": "FRSOR",
     "name": "Saint-Sorlin-dArves",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -290,7 +290,7 @@
   {
     "code": "FRFOY",
     "name": "Sainte Foy Tarentaise",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -298,7 +298,7 @@
   {
     "code": "FRTIG",
     "name": "Tignes",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": true,
     "beginnerFriendly": true
@@ -306,7 +306,7 @@
   {
     "code": "FRTOU",
     "name": "La Toussuire",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": true,
     "beginnerFriendly": true
@@ -314,7 +314,7 @@
   {
     "code": "FRVCE",
     "name": "Val Cenis",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -322,7 +322,7 @@
   {
     "code": "FRVDI",
     "name": "Val d'Isere",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": false,
     "highAltitude": true,
     "beginnerFriendly": false
@@ -330,7 +330,7 @@
   {
     "code": "FRVLO",
     "name": "Valloire",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -338,7 +338,7 @@
   {
     "code": "FRVLM",
     "name": "Valmeinier",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -346,7 +346,7 @@
   {
     "code": "FRVMO",
     "name": "Valmorel",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -354,7 +354,7 @@
   {
     "code": "FRROG",
     "name": "Villaroger",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": true,
     "beginnerFriendly": true
@@ -362,7 +362,7 @@
   {
     "code": "FRCAR",
     "name": "Les Carroz",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -370,7 +370,7 @@
   {
     "code": "FRCHX",
     "name": "Chamonix",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": false,
     "highAltitude": true,
     "beginnerFriendly": false
@@ -378,7 +378,7 @@
   {
     "code": "FRARG",
     "name": "Argentiere",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": false,
     "highAltitude": true,
     "beginnerFriendly": false
@@ -386,7 +386,7 @@
   {
     "code": "FRCHL",
     "name": "Chatel",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -394,7 +394,7 @@
   {
     "code": "FRCHP",
     "name": "La Chapelle-d'Abondance",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -402,7 +402,7 @@
   {
     "code": "FRCLU",
     "name": "La Clusaz",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -410,7 +410,7 @@
   {
     "code": "FRCOM",
     "name": "Combloux",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -418,7 +418,7 @@
   {
     "code": "FRCON",
     "name": "Les Contamines-Montjoie",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -426,7 +426,7 @@
   {
     "code": "FRFLA",
     "name": "Flaine",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -434,7 +434,7 @@
   {
     "code": "FRGET",
     "name": "Les Gets",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -442,7 +442,7 @@
   {
     "code": "FRGBO",
     "name": "Le Grand-Bornand",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -450,7 +450,7 @@
   {
     "code": "FRHOU",
     "name": "Les Houches",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -458,7 +458,7 @@
   {
     "code": "FRMEG",
     "name": "Megeve",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -466,7 +466,7 @@
   {
     "code": "FRMOL",
     "name": "Morillon",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -474,7 +474,7 @@
   {
     "code": "FRMOR",
     "name": "Morzine",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -482,7 +482,7 @@
   {
     "code": "FRAVO",
     "name": "Avoriaz",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": true,
     "beginnerFriendly": true
@@ -490,7 +490,7 @@
   {
     "code": "FRSAM",
     "name": "Samoens",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -498,7 +498,7 @@
   {
     "code": "FRVCI",
     "name": "Vallorcine",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": true,
     "beginnerFriendly": false
@@ -506,7 +506,7 @@
   {
     "code": "FRJEA",
     "name": "Saint-Jean-dArves",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -514,7 +514,7 @@
   {
     "code": "FRCHE",
     "name": "Serre Chevalier",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -522,7 +522,7 @@
   {
     "code": "FRHAU",
     "name": "Hauteluce",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -530,7 +530,7 @@
   {
     "code": "FRSAI",
     "name": "Les Saisies",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -538,7 +538,7 @@
   {
     "code": "FRPRZ",
     "name": "Praz-sur-Arly",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -546,7 +546,7 @@
   {
     "code": "FRSTG",
     "name": "Saint Gervais",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -554,7 +554,7 @@
   {
     "code": "ATBKL",
     "name": "Bad Kleinkirchheim",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -562,7 +562,7 @@
   {
     "code": "ATBHO",
     "name": "Bad Hofgastein",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -570,7 +570,7 @@
   {
     "code": "ATBGA",
     "name": "Bad Gastein",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -578,7 +578,7 @@
   {
     "code": "ATDGA",
     "name": "Dorfgastein",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -586,7 +586,7 @@
   {
     "code": "ATMAR",
     "name": "Maria Alm",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -594,7 +594,7 @@
   {
     "code": "ATRAU",
     "name": "Rauris",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -602,7 +602,7 @@
   {
     "code": "ATSAA",
     "name": "Saalbach-Hinterglemm",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -610,7 +610,7 @@
   {
     "code": "ATFLA",
     "name": "Flachau",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -618,7 +618,7 @@
   {
     "code": "ATZAS",
     "name": "Zell am See",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -626,7 +626,7 @@
   {
     "code": "ATKPN",
     "name": "Kaprun",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -634,7 +634,7 @@
   {
     "code": "ATSCH",
     "name": "Schladming",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -642,7 +642,7 @@
   {
     "code": "ATALP",
     "name": "Alpbach",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -650,7 +650,7 @@
   {
     "code": "ATAXA",
     "name": "Axamer Lizum",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -658,7 +658,7 @@
   {
     "code": "ATISC",
     "name": "Ischgl",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -666,7 +666,7 @@
   {
     "code": "ATKIT",
     "name": "Kitzbuhel",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -674,7 +674,7 @@
   {
     "code": "ATFIE",
     "name": "Fieberbrunn",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -682,7 +682,7 @@
   {
     "code": "ATKIR",
     "name": "Kirchberg",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -690,7 +690,7 @@
   {
     "code": "ATMAY",
     "name": "Mayrhofen",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -698,7 +698,7 @@
   {
     "code": "ATZAZ",
     "name": "Zell am Ziller",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -706,7 +706,7 @@
   {
     "code": "ATGER",
     "name": "Gerlos",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -714,7 +714,7 @@
   {
     "code": "ATTUX",
     "name": "Tux",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -722,7 +722,7 @@
   {
     "code": "ATFUG",
     "name": "Fugen",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -730,7 +730,7 @@
   {
     "code": "ATSOE",
     "name": "Soelden",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -738,7 +738,7 @@
   {
     "code": "ATSTA",
     "name": "St Anton",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -746,7 +746,7 @@
   {
     "code": "ATSEE",
     "name": "Seefeld",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -754,7 +754,7 @@
   {
     "code": "ATNEU",
     "name": "Neustift Im Stubaital",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": true,
     "highAltitude": true,
     "beginnerFriendly": false
@@ -762,7 +762,7 @@
   {
     "code": "ATELL",
     "name": "Ellmau",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -770,7 +770,7 @@
   {
     "code": "ATSHF",
     "name": "Scheffau am Wilden Kaiser",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -778,7 +778,7 @@
   {
     "code": "ATGOI",
     "name": "Going am Wilden Kaiser",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -786,7 +786,7 @@
   {
     "code": "ATSOL",
     "name": "Soell",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -794,7 +794,7 @@
   {
     "code": "ATWES",
     "name": "Westendorf",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -802,7 +802,7 @@
   {
     "code": "ATWLD",
     "name": "Wildschonau",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -810,7 +810,7 @@
   {
     "code": "ATLEC",
     "name": "Lech",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -818,7 +818,7 @@
   {
     "code": "ATDAM",
     "name": "Damuels",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -826,7 +826,7 @@
   {
     "code": "ATLEO",
     "name": "Leogang",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -834,7 +834,7 @@
   {
     "code": "ATSER",
     "name": "Serfaus",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": true,
     "highAltitude": true,
     "beginnerFriendly": true
@@ -842,7 +842,7 @@
   {
     "code": "ATHEI",
     "name": "Heiligenblut",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": false,
     "highAltitude": true,
     "beginnerFriendly": false
@@ -850,7 +850,7 @@
   {
     "code": "ATOET",
     "name": "Oetz",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -858,7 +858,7 @@
   {
     "code": "ATJOC",
     "name": "Jochberg",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -866,7 +866,7 @@
   {
     "code": "ATLER",
     "name": "Lermoos",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -874,7 +874,7 @@
   {
     "code": "ATPIT",
     "name": "St Leonhard im Pitztal",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": false,
     "highAltitude": true,
     "beginnerFriendly": false
@@ -882,7 +882,7 @@
   {
     "code": "ATLAD",
     "name": "Ladis",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": true,
     "highAltitude": true,
     "beginnerFriendly": true
@@ -890,7 +890,7 @@
   {
     "code": "ATWAI",
     "name": "Waidring",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -898,7 +898,7 @@
   {
     "code": "ATWAG",
     "name": "Wagrain",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -906,7 +906,7 @@
   {
     "code": "ATFIT",
     "name": "Filzmoos",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -914,7 +914,7 @@
   {
     "code": "ATMUE",
     "name": "Muehlbach Am Hochkoenig",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -922,7 +922,7 @@
   {
     "code": "ATOGL",
     "name": "Obergurgl",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": true,
     "highAltitude": true,
     "beginnerFriendly": true
@@ -930,7 +930,7 @@
   {
     "code": "ITALA",
     "name": "Alagna Valsesia",
-    "country": "Italy",
+    "country": "IT",
     "familyFriendly": false,
     "highAltitude": true,
     "beginnerFriendly": false
@@ -938,7 +938,7 @@
   {
     "code": "ITBAR",
     "name": "Bardonecchia",
-    "country": "Italy",
+    "country": "IT",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -946,7 +946,7 @@
   {
     "code": "ITCER",
     "name": "Cervinia",
-    "country": "Italy",
+    "country": "IT",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -954,7 +954,7 @@
   {
     "code": "ITCOU",
     "name": "Courmayeur",
-    "country": "Italy",
+    "country": "IT",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -962,7 +962,7 @@
   {
     "code": "ITGRE",
     "name": "Gressoney",
-    "country": "Italy",
+    "country": "IT",
     "familyFriendly": false,
     "highAltitude": true,
     "beginnerFriendly": false
@@ -970,7 +970,7 @@
   {
     "code": "ITTHU",
     "name": "La Thuile",
-    "country": "Italy",
+    "country": "IT",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -978,7 +978,7 @@
   {
     "code": "ITBOR",
     "name": "Bormio",
-    "country": "Italy",
+    "country": "IT",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -986,7 +986,7 @@
   {
     "code": "ITLIV",
     "name": "Livigno",
-    "country": "Italy",
+    "country": "IT",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -994,7 +994,7 @@
   {
     "code": "ITMAD",
     "name": "Madonna di Campiglio",
-    "country": "Italy",
+    "country": "IT",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -1002,7 +1002,7 @@
   {
     "code": "ITCAN",
     "name": "Canazei",
-    "country": "Italy",
+    "country": "IT",
     "familyFriendly": false,
     "highAltitude": true,
     "beginnerFriendly": true
@@ -1010,7 +1010,7 @@
   {
     "code": "ITVIG",
     "name": "Vigo di Fassa",
-    "country": "Italy",
+    "country": "IT",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -1018,7 +1018,7 @@
   {
     "code": "ITCAM",
     "name": "Campitello di Fassa",
-    "country": "Italy",
+    "country": "IT",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -1026,7 +1026,7 @@
   {
     "code": "ITPOZ",
     "name": "Pozza di Fassa",
-    "country": "Italy",
+    "country": "IT",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -1034,7 +1034,7 @@
   {
     "code": "ITALT",
     "name": "Alta Badia",
-    "country": "Italy",
+    "country": "IT",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -1042,7 +1042,7 @@
   {
     "code": "ITSTC",
     "name": "Santa Cristina Val Gardena",
-    "country": "Italy",
+    "country": "IT",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -1050,7 +1050,7 @@
   {
     "code": "ITSEL",
     "name": "Selva di Val Gardena",
-    "country": "Italy",
+    "country": "IT",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1058,7 +1058,7 @@
   {
     "code": "ITSEN",
     "name": "Senales",
-    "country": "Italy",
+    "country": "IT",
     "familyFriendly": false,
     "highAltitude": true,
     "beginnerFriendly": true
@@ -1066,7 +1066,7 @@
   {
     "code": "ITORT",
     "name": "Ortisei",
-    "country": "Italy",
+    "country": "IT",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -1074,7 +1074,7 @@
   {
     "code": "ITCOR",
     "name": "Cortina d'Ampezzo",
-    "country": "Italy",
+    "country": "IT",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1082,7 +1082,7 @@
   {
     "code": "ITMAR",
     "name": "Marebbe",
-    "country": "Italy",
+    "country": "IT",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1090,7 +1090,7 @@
   {
     "code": "ITPIL",
     "name": "Pila",
-    "country": "Italy",
+    "country": "IT",
     "familyFriendly": true,
     "highAltitude": true,
     "beginnerFriendly": true
@@ -1098,7 +1098,7 @@
   {
     "code": "ITSVI",
     "name": "San Vito di Cadore",
-    "country": "Italy",
+    "country": "IT",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": true
@@ -1106,7 +1106,7 @@
   {
     "code": "ITSES",
     "name": "Sestriere",
-    "country": "Italy",
+    "country": "IT",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1114,7 +1114,7 @@
   {
     "code": "ITSAU",
     "name": "Sauze d'Oulx",
-    "country": "Italy",
+    "country": "IT",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1122,7 +1122,7 @@
   {
     "code": "SIKRA",
     "name": "Kranjska Gora",
-    "country": "Slovenia",
+    "country": "SI",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1130,7 +1130,7 @@
   {
     "code": "SIBLE",
     "name": "Bled",
-    "country": "Slovenia",
+    "country": "SI",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1138,7 +1138,7 @@
   {
     "code": "SIBOH",
     "name": "Bohinj",
-    "country": "Slovenia",
+    "country": "SI",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1146,7 +1146,7 @@
   {
     "code": "SIBOV",
     "name": "Bovec",
-    "country": "Slovenia",
+    "country": "SI",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1154,7 +1154,7 @@
   {
     "code": "SICER",
     "name": "Cerkno",
-    "country": "Slovenia",
+    "country": "SI",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1186,7 +1186,7 @@
   {
     "code": "NOGEI",
     "name": "Geilo",
-    "country": "Norway",
+    "country": "NO",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1194,7 +1194,7 @@
   {
     "code": "NOHAF",
     "name": "Hafjell",
-    "country": "Norway",
+    "country": "NO",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1202,7 +1202,7 @@
   {
     "code": "NOHEM",
     "name": "Hemsedal",
-    "country": "Norway",
+    "country": "NO",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1210,7 +1210,7 @@
   {
     "code": "NOTRY",
     "name": "Trysil",
-    "country": "Norway",
+    "country": "NO",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1218,7 +1218,7 @@
   {
     "code": "NOVOS",
     "name": "Voss",
-    "country": "Norway",
+    "country": "NO",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1226,7 +1226,7 @@
   {
     "code": "NOLIL",
     "name": "Lillehammer",
-    "country": "Norway",
+    "country": "NO",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1234,7 +1234,7 @@
   {
     "code": "NOBEI",
     "name": "Beitostolen",
-    "country": "Norway",
+    "country": "NO",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1266,7 +1266,7 @@
   {
     "code": "FILEV",
     "name": "Levi",
-    "country": "Finland",
+    "country": "FI",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1274,7 +1274,7 @@
   {
     "code": "FIRUK",
     "name": "Ruka",
-    "country": "Finland",
+    "country": "FI",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1282,7 +1282,7 @@
   {
     "code": "FIYLL",
     "name": "Yllas",
-    "country": "Finland",
+    "country": "FI",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1290,7 +1290,7 @@
   {
     "code": "FISYO",
     "name": "Syote",
-    "country": "Finland",
+    "country": "FI",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1298,7 +1298,7 @@
   {
     "code": "FIPYH",
     "name": "Pyha",
-    "country": "Finland",
+    "country": "FI",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1306,7 +1306,7 @@
   {
     "code": "FISAL",
     "name": "Salla",
-    "country": "Finland",
+    "country": "FI",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1314,7 +1314,7 @@
   {
     "code": "FISUO",
     "name": "Suomu",
-    "country": "Finland",
+    "country": "FI",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1322,7 +1322,7 @@
   {
     "code": "DEGAR",
     "name": "Garmisch-Partenkirchen",
-    "country": "Germany",
+    "country": "DE",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1330,7 +1330,7 @@
   {
     "code": "DEOBG",
     "name": "Oberammergau",
-    "country": "Germany",
+    "country": "DE",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1338,7 +1338,7 @@
   {
     "code": "DEOBD",
     "name": "Oberstdorf",
-    "country": "Germany",
+    "country": "DE",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1346,7 +1346,7 @@
   {
     "code": "DERUH",
     "name": "Ruhpolding",
-    "country": "Germany",
+    "country": "DE",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1354,7 +1354,7 @@
   {
     "code": "DEWEG",
     "name": "Wegscheid",
-    "country": "Germany",
+    "country": "DE",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1362,7 +1362,7 @@
   {
     "code": "DETEG",
     "name": "Tegernsee",
-    "country": "Germany",
+    "country": "DE",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1370,7 +1370,7 @@
   {
     "code": "CHADL",
     "name": "Adelboden",
-    "country": "Switzerland",
+    "country": "CH",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1378,7 +1378,7 @@
   {
     "code": "CHAND",
     "name": "Andermatt",
-    "country": "Switzerland",
+    "country": "CH",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1386,7 +1386,7 @@
   {
     "code": "CHENG",
     "name": "Engelberg",
-    "country": "Switzerland",
+    "country": "CH",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1394,7 +1394,7 @@
   {
     "code": "CHGRN",
     "name": "Grindelwald",
-    "country": "Switzerland",
+    "country": "CH",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1402,7 +1402,7 @@
   {
     "code": "CHKAN",
     "name": "Kandersteg",
-    "country": "Switzerland",
+    "country": "CH",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1410,7 +1410,7 @@
   {
     "code": "CHLEN",
     "name": "Lenk",
-    "country": "Switzerland",
+    "country": "CH",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1418,7 +1418,7 @@
   {
     "code": "CHWEN",
     "name": "Wengen",
-    "country": "Switzerland",
+    "country": "CH",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1426,7 +1426,7 @@
   {
     "code": "CHARO",
     "name": "Arosa",
-    "country": "Switzerland",
+    "country": "CH",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1434,7 +1434,7 @@
   {
     "code": "CHDAV",
     "name": "Davos",
-    "country": "Switzerland",
+    "country": "CH",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1442,7 +1442,7 @@
   {
     "code": "CHKLO",
     "name": "Klosters",
-    "country": "Switzerland",
+    "country": "CH",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1450,7 +1450,7 @@
   {
     "code": "CHFLI",
     "name": "Flims",
-    "country": "Switzerland",
+    "country": "CH",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1458,7 +1458,7 @@
   {
     "code": "CHLAX",
     "name": "Laax",
-    "country": "Switzerland",
+    "country": "CH",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1466,7 +1466,7 @@
   {
     "code": "CHSTM",
     "name": "St Moritz",
-    "country": "Switzerland",
+    "country": "CH",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1474,7 +1474,7 @@
   {
     "code": "CHSMN",
     "name": "Samnaun",
-    "country": "Switzerland",
+    "country": "CH",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1482,7 +1482,7 @@
   {
     "code": "CHCHA",
     "name": "Champery",
-    "country": "Switzerland",
+    "country": "CH",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1490,7 +1490,7 @@
   {
     "code": "CHCRA",
     "name": "Crans-Montana",
-    "country": "Switzerland",
+    "country": "CH",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1498,7 +1498,7 @@
   {
     "code": "CHLEU",
     "name": "Leukerbad",
-    "country": "Switzerland",
+    "country": "CH",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1506,7 +1506,7 @@
   {
     "code": "CHNEN",
     "name": "Nendaz",
-    "country": "Switzerland",
+    "country": "CH",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1514,7 +1514,7 @@
   {
     "code": "CHRIE",
     "name": "Riederalp",
-    "country": "Switzerland",
+    "country": "CH",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1522,7 +1522,7 @@
   {
     "code": "CHSAL",
     "name": "Saas Almagell",
-    "country": "Switzerland",
+    "country": "CH",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1530,7 +1530,7 @@
   {
     "code": "CHSFE",
     "name": "Saas-Fee",
-    "country": "Switzerland",
+    "country": "CH",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1538,7 +1538,7 @@
   {
     "code": "CHZER",
     "name": "Zermatt",
-    "country": "Switzerland",
+    "country": "CH",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1546,7 +1546,7 @@
   {
     "code": "CHLEY",
     "name": "Leysin",
-    "country": "Switzerland",
+    "country": "CH",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1554,7 +1554,7 @@
   {
     "code": "CHVER",
     "name": "Verbier",
-    "country": "Switzerland",
+    "country": "CH",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1562,7 +1562,7 @@
   {
     "code": "CHFIE",
     "name": "Fiesch",
-    "country": "Switzerland",
+    "country": "CH",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1570,7 +1570,7 @@
   {
     "code": "CHMEI",
     "name": "Meiringen",
-    "country": "Switzerland",
+    "country": "CH",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1578,7 +1578,7 @@
   {
     "code": "CHSPL",
     "name": "Spluegen",
-    "country": "Switzerland",
+    "country": "CH",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1586,7 +1586,7 @@
   {
     "code": "CHVEY",
     "name": "Veysonnaz",
-    "country": "Switzerland",
+    "country": "CH",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1594,7 +1594,7 @@
   {
     "code": "CHDIS",
     "name": "Disentis",
-    "country": "Switzerland",
+    "country": "CH",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1602,7 +1602,7 @@
   {
     "code": "FRARC",
     "name": "Les Arcs",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": true,
     "beginnerFriendly": true
@@ -1610,7 +1610,7 @@
   {
     "code": "FRMEN",
     "name": "Les Menuires",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": true,
     "beginnerFriendly": true
@@ -1618,7 +1618,7 @@
   {
     "code": "FRVTH",
     "name": "Val Thorens",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": true,
     "highAltitude": true,
     "beginnerFriendly": true
@@ -1626,7 +1626,7 @@
   {
     "code": "FRCAU",
     "name": "Vaujany",
-    "country": "France",
+    "country": "FR",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1634,7 +1634,7 @@
   {
     "code": "ATHOP",
     "name": "Hopfgarten",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1642,7 +1642,7 @@
   {
     "code": "ATKPL",
     "name": "Kappl",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1650,7 +1650,7 @@
   {
     "code": "ATSTC",
     "name": "St Christoph",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": false,
     "highAltitude": false,
     "beginnerFriendly": false
@@ -1658,7 +1658,7 @@
   {
     "code": "ATSTJ",
     "name": "St Johan",
-    "country": "Austria",
+    "country": "AT",
     "familyFriendly": true,
     "highAltitude": false,
     "beginnerFriendly": true
