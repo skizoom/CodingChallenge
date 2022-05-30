@@ -4,7 +4,7 @@ Heidi Engineer Recruitment Task
 Thank you for taking the time to do our technical task. It consists of two parts:
 
 * [A coding task](#coding-scenario)
-* [A few technical questions](#technical-questions)
+* [A few technical questions](#questions)
 
 Please submit your code as a pull request containing your changes on this repository, or a forked version of this repository if you would prefer.
 
@@ -29,8 +29,6 @@ Please answer the following questions in a markdown file called `Answers.md`.
     - Feel free to demonstrate an example in the code.
 3. If you added any tests to the code, which approach did you use and why?
 4. How would you add any new data sources to the `/api/hotels/` endpoint in the future?
-5. How would you secure the API so that only authorized clients can use it?
-    - You don't need to implement this unless you want to.
 
 
 ## Running Instructions
