@@ -1,8 +1,8 @@
 ﻿using System.Linq;
-using CodingChallenge.Data;
+using API.Data;
 using Microsoft.AspNetCore.Mvc;
 
-namespace CodingChallenge.Controllers
+namespace API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
@@ -12,7 +12,7 @@ namespace CodingChallenge.Controllers
 
         public ResortsController(DatabaseContext database)
         {
-            this.database = database ?? throw new System.ArgumentNullException(nameof(database));
+            this.database = database ?? throw new ArgumentNullException(nameof(database));
         }
 
         [HttpGet]

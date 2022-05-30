@@ -1,57 +1,46 @@
-Ski Zoom Engineer Recruitment Task
+Heidi Engineer Recruitment Task
 ==================================
 
 Thank you for taking the time to do our technical task. It consists of two parts:
 
-* [A coding challenge](#coding-test)
+* [A coding task](#coding-scenario)
 * [A few technical questions](#technical-questions)
 
 Please submit your code as a pull request containing your changes on this repository, or a forked version of this repository if you would prefer.
 
-## Coding Scenario
+# Coding Scenario
+Our tech at Heidi relies on many different supplier APIs and data feeds.
 
-In our task scenario, one of our accommodation suppliers has provided us with an API endpoint of all of their hotels, with the star-ratings of the properties and the resorts that they are in.
+In this scenario you have inherited a .NET core API that returns hotel data from two downstream API endpoints.
 
-The sample application is a .NET Core single-page application, with an API backend for accessing data.
+Please complete the below refactoring task, using it as an example to demonstrate how you build modular, testable and well performing code when having to use unpredictable dependencies.
 
-The sample code already has a basic page that lists hotels that are retrieved from our supplier's API endpoint. It also contains an example API controller that demonstrates retrieving some simple resort information from an in-memory database.
+## Task
 
-The coding task is to add some new functionality to the application to satisfy the below [user-stories](#user-stories).
+Your task is to refactor `HotelsController.cs` so that all hotels are returned from the `/api/hotels` endpoint instead of the two current endpoints.
+The endpoint should return a list of hotels, including their name and star rating.
+## Questions
 
-### User Stories
+Please answer the following questions in a markdown file called `Answers.md`.
 
-As a **user of the application**  
-I can **filter a list of hotels by their star rating**  
-So that **I know what quality of hotels are available in the country I want to visit**
-
-As a **user running the application**  
-I can **filter a list of hotels that are suitable for families**  
-So that **I can advise families about suitable hotels**
-
-
-### Task requirements
-
-Feel free to spend as much or as little time on the exercise as you like as long as the following requirements have been met.  
-
-- Please complete the above user stories.
-- If you have experience with unit testing, it would be great to see examples of this, as it provides more to talk about and helps us see your style of coding.
-- Please refactor the code as much as you like to make it modular and testable.
-
-# Technical questions
-
-Please answer the following questions in a markdown file called `Answers to technical questions.md`.
-
-1. How long did you spend on the coding test? What would you add to your solution if you had more time? If you didn't spend much time on the coding test then use this as an opportunity to explain what you would add.
-2. You may have noticed that the supplier API we use in this sample application can be quite slow. How could you work around this to improve the experience for your users?
+1. How did you make the code more modular and testable? 
+    - did you use any [SOLID](https://en.wikipedia.org/wiki/SOLID) design principles? if so, which ones?
+2. The downstream endpoints can be quite slow. How can we speed up our API? 
+    - Feel free to demonstrate an example in the code.
+3. If you added any tests to the code, which approach did you use and why?
+4. How would you add any new data sources to the `/api/hotels/` endpoint in the future?
+5. How would you secure the API so that only authorized clients can use it?
+    - You don't need to implement this unless you want to.
 
 
-# Running Instructions
+## Running Instructions
 The sample application uses the following frameworks:
 
-1. .NET Core 3.1, which can be downloaded [here](https://dotnet.microsoft.com/download/dotnet-core/3.1).
-2. NodeJS which can be downloaded [here](https://nodejs.org/en/).
+1. .NET Core 6.0, which can be downloaded [here](https://dotnet.microsoft.com/en-us/download/dotnet/6.0).
 
 The application can be run using the `dotnet run` command from the `./CodingChallenge/` directory.
+
+The application has a swagger openAPI endpoint at `/swagger/index.html` for testing the API, or you can use a tool like Postman.
 
 
 #### Thanks for your time, we look forward to hearing from you!
