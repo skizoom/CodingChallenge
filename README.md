@@ -6,7 +6,7 @@ Thank you for taking the time to do our technical task. It consists of two parts
 * [A coding task](#coding-scenario)
 * [A few technical questions](#questions)
 
-Please submit your code as a pull request containing your changes on this repository, or a forked version of this repository if you would prefer.
+Please submit your code as a zip file or a forked version of this repository if you would prefer.
 
 # Coding Scenario
 Our tech at Heidi relies on many different supplier APIs and data feeds.
@@ -19,6 +19,7 @@ Please complete the below refactoring task, using it as an example to demonstrat
 
 Your task is to refactor `HotelsController.cs` so that all hotels are returned from the `/api/hotels` endpoint instead of the two current endpoints.
 The endpoint should return a list of hotels, including their name and star rating.
+
 ## Questions
 
 Please answer the following questions in a markdown file called `Answers.md`.
@@ -29,6 +30,7 @@ Please answer the following questions in a markdown file called `Answers.md`.
     - Feel free to demonstrate an example in the code.
 3. If you added any tests to the code, which approach did you use and why?
 4. How would you add any new data sources to the `/api/hotels/` endpoint in the future?
+5. If you have clients using the current version of the API, how would you approach this refactoring task?
 
 
 ## Running Instructions
