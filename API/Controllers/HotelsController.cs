@@ -22,8 +22,6 @@ namespace API.Controllers
         [Route("italian")]
         public async Task<IActionResult> GetNewProviderHotels()
         {
-            // return these hotels in the /hotels endpoint above, instead of this one.
-
             var HTTP = new HttpClient();
 
             var data_response = await HTTP.GetAsync("https://skizoominterviewchallenge.azurewebsites.net/api/residenza?code=En1OvN8w29jYh0BYv5ogeN2JVZt_zB8PZqTtpRK_PvB9AzFuTk3FYQ==");
