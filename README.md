@@ -32,9 +32,10 @@ The existing API exposes two endpoints of hotel data from `HotelsController.cs`.
 Please answer the following questions in a markdown file called `Answers.md`.
 
 1. How long did you spend on the coding test? What would you add to your solution if you had more time? If you didn't spend much time on the coding test then use this as an opportunity to explain what you would add.
-2. What was the most useful feature that was added to the latest version of your chosen framework? Please include a snippet of code that shows how you've used it.
-3. How would you improve the API in this project? If you refactored it as part of your solution, explain what you did and why.
-4. How would you track down a performance issue in production? Have you ever had to do this?
+2. The downstream endpoints can be quite slow. How can we speed up our API? Feel free to demonstrate an example in the code.
+3. What was the most useful feature that was added to the latest version of your chosen framework? Please include a snippet of code that shows how you've used it.
+4. How would you improve the API in this project? If you refactored it as part of your solution, explain what you did and why.
+5. How would you track down a performance issue in production? Have you ever had to do this?
 
 
 
