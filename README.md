@@ -6,7 +6,6 @@ Thank you for taking the time to do our technical task. It consists of two parts
 * [A coding task](#coding-scenario)
 * [A few technical questions](#questions)
 
-Please submit your code as a zip file or a forked version of this repository if you would prefer.
 
 # Coding Scenario
 Our tech at Heidi relies on many different supplier APIs and data feeds.
@@ -25,6 +24,8 @@ The existing API exposes two endpoints of hotel data from `HotelsController.cs`.
 - Please refactor HotelsController.cs so that all hotels are returned from the /api/hotels endpoint instead of the two current endpoints. The endpoint should return a list of hotels, including their name and star rating.
 - Create a front-end as a subdirectory of the solution, with a README explaining how to build and run it. Our current stack is React/NextJS based, but use anything you like for your submission. Let us know why you choose it.
 - Perfect is the enemy of good. Don't worry too much about UX or making things pretty.
+
+Please submit your code as a zip file.
 
 ## Questions
 
