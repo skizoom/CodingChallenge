@@ -38,7 +38,7 @@ Please answer the following questions in a markdown file called `Answers.md`.
 
 The sample application uses the following frameworks:
 
-1. .NET Core 6.0, which can be downloaded [here](https://dotnet.microsoft.com/en-us/download/dotnet/6.0).
+1. .NET Core 8.0, which can be downloaded [here](https://dotnet.microsoft.com/en-us/download/dotnet/8.0).
 
 The application can be run using the `dotnet run` command from the `./CodingChallenge/` directory.
 
