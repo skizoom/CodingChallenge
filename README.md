@@ -38,9 +38,9 @@ Please answer the following questions in a markdown file called `Answers.md`.
 
 The sample application uses the following frameworks:
 
-1. .NET Core 8.0, which can be downloaded [here](https://dotnet.microsoft.com/en-us/download/dotnet/8.0).
+1. .NET Core 7.0, which can be downloaded [here](https://dotnet.microsoft.com/en-us/download/dotnet/7.0).
 
-The application can be run using the `dotnet run` command from the `./CodingChallenge/` directory.
+The application can be run using the `dotnet run` command from the `./CodingChallenge/API` directory.
 
 The application has a swagger openAPI endpoint at `/swagger/index.html` for testing the API, or you can use a tool like Postman.
 
