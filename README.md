@@ -1,43 +1,41 @@
-Heidi Full-stack Engineer Recruitment Task
-==================================
+# Heidi Engineer Recruitment Task
 
 Thank you for taking the time to do our technical task. It consists of two parts:
 
-* [A coding task](#coding-scenario)
-* [A few technical questions](#questions)
+- [A coding task](#coding-scenario)
+- [A few technical questions](#questions)
 
+Please submit your code as a zip file sent back to us.
 
 # Coding Scenario
+
 Our tech at Heidi relies on many different supplier APIs and data feeds.
 
 In this scenario you have inherited a .NET core API that returns hotel data from two downstream API endpoints.
 
-Please complete the below task, using it as an example to demonstrate how you build applications using and improving on existing APIs.
+Please complete the below refactoring task, using it as an example to demonstrate how you build modular, testable and well performing code when having to use unpredictable dependencies.
 
 ## Task
-Your taks is to build a basic web application that displays a list of hotels, including their name and star rating.
 
-The ability to filter by star rating and resort code is required.
-
-The existing API exposes two endpoints of hotel data from `HotelsController.cs`.
-
-- Please refactor HotelsController.cs so that all hotels are returned from the /api/hotels endpoint instead of the two current endpoints. The endpoint should return a list of hotels, including their name and star rating.
-- Create a front-end as a subdirectory of the solution, with a README explaining how to build and run it. Our current stack is React/NextJS based, but use anything you like for your submission. Let us know why you choose it.
-- Perfect is the enemy of good. Don't worry too much about UX or making things pretty.
-
-Please submit your code as a zip file.
+Your task is to refactor `HotelsController.cs` so that all hotels are returned from the `/api/hotels` endpoint instead of the two current endpoints.
+The endpoint should return a list of hotels, including their name and star rating.
 
 ## Questions
 
 Please answer the following questions in a markdown file called `Answers.md`.
 
-1. How long did you spend on the coding test? What would you add to your solution if you had more time? If you didn't spend much time on the coding test then use this as an opportunity to explain what you would add.
-2. The downstream endpoints can be quite slow. How can we speed up our API? Feel free to demonstrate an example in the code.
-3. How would you improve the API in this project? Did you use any [SOLID](https://en.wikipedia.org/wiki/SOLID) principles?.
-
-
+1. How did you make the code more modular and testable?
+   - did you use any [SOLID](https://en.wikipedia.org/wiki/SOLID) design principles? if so, which ones?
+2. The downstream endpoints can be quite slow. How can we speed up our API?
+   - Feel free to demonstrate an example in the code.
+3. If you added any tests to the code, which approach did you use and why?
+4. How would you add any new data sources to the `/api/hotels/` endpoint in the future?
+5. Can your solution easily scale with new providers of hotel data being added?
+6. If you have clients using the current version of the API, how would you approach this refactoring task?
+7. If you had to host this API in a production envirnment, describe the steps you would take to do this.
 
 ## Running Instructions
+
 The sample application uses the following frameworks:
 
 1. .NET Core 6.0, which can be downloaded [here](https://dotnet.microsoft.com/en-us/download/dotnet/6.0).
@@ -46,6 +44,4 @@ The application can be run using the `dotnet run` command from the `./CodingChal
 
 The application has a swagger openAPI endpoint at `/swagger/index.html` for testing the API, or you can use a tool like Postman.
 
-
 #### Thanks for your time, we look forward to hearing from you!
-
