@@ -24,15 +24,14 @@ The endpoint should return a list of hotels, including their name and star ratin
 
 Please answer the following questions in a markdown file called `Answers.md`.
 
-1. How did you make the code more modular and testable?
-   - did you use any [SOLID](https://en.wikipedia.org/wiki/SOLID) design principles? if so, which ones?
+1. How did you improve the quality of the existing code?
 2. The downstream endpoints can be quite slow. How can we speed up our API?
    - Feel free to demonstrate an example in the code.
 3. If you added any tests to the code, which approach did you use and why?
 4. How would you add any new data sources to the `/api/hotels/` endpoint in the future?
 5. Can your solution easily scale with new providers of hotel data being added?
 6. If you have clients using the current version of the API, how would you approach this refactoring task?
-7. If you had to host this API in a production envirnment, describe the steps you would take to do this.
+7. If you had to host this API in a production environment, describe the steps you would take to do this.
 
 ## Running Instructions
 
